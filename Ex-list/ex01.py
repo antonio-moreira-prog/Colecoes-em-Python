@@ -13,7 +13,7 @@ while True:
     try:
         num_notas = int(num_notas)
     except ValueError:
-        print("Por favor, insira um número.")
+        print("Por favor, insira um valor válido.")
         continue
  
     for i in range(num_notas):

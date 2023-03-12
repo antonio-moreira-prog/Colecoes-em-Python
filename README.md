@@ -1,9 +1,12 @@
-#  Coleções em Python
+<p align="center">
+  <a href="https://python.org/" target="blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="120" alt="Python Logo" /></a>
+</p>
+<h1 align="center">Coleções em Python</h1>
 
 Este é um repositório que contém diferentes coleções implementadas em Python. As coleções são estruturas de dados que podem armazenar e manipular um conjunto de elementos. Cada coleção é implementada como uma classe Python, contendo métodos para manipular a coleção.
 
 
-##  🚀 Como usar?
+## Como usar?
 
 Para usar as coleções neste repositório, basta clonar o repositório em sua máquina local e importar a classe correspondente ao tipo de coleção que você deseja usar. Por exemplo:
 ```
@@ -67,3 +70,7 @@ Um conjunto é uma coleção não ordenada e sem elementos duplicados. A classe 
 -   `discard(item)`: remove o elemento do conjunto, se ele existir.
 -   `pop()`: remove e retorna um elemento aleatório do conjunto.
 -   `clear()
+
+## Autor
+
+* **Programador (aluno)** - *Algoritmos* - [Antonio Moreira](https://github.com/antonio-moreira-prog)

@@ -21,7 +21,7 @@ O repositório contém as seguintes coleções implementadas:
 
 ### Lista (List)
 
-Uma lista é uma coleção ordenada de elementos, em que cada elemento é identificado por um índice. A classe MyList implementa uma lista.
+Uma lista é uma coleção ordenada de elementos, em que cada elemento é identificado por um índice.
 
 #### Métodos disponíveis
 
@@ -38,7 +38,7 @@ Uma lista é uma coleção ordenada de elementos, em que cada elemento é identi
 
 ### Tupla (Tuple)
 
-Uma tupla é uma coleção ordenada e imutável de elementos. A classe MyTuple implementa uma tupla.
+Uma tupla é uma coleção ordenada e imutável de elementos.
 
 #### Métodos disponíveis
 
@@ -47,7 +47,7 @@ Uma tupla é uma coleção ordenada e imutável de elementos. A classe MyTuple i
 
 ### Dicionário (Dictionary)
 
-Um dicionário é uma coleção não ordenada de elementos, em que cada elemento é identificado por uma chave única. A classe MyDict implementa um dicionário.
+Um dicionário é uma coleção não ordenada de elementos, em que cada elemento é identificado por uma chave única.
 
 #### Métodos disponíveis
 
@@ -61,7 +61,7 @@ Um dicionário é uma coleção não ordenada de elementos, em que cada elemento
 
 ### Conjunto (Set)
 
-Um conjunto é uma coleção não ordenada e sem elementos duplicados. A classe MySet implementa um conjunto.
+Um conjunto é uma coleção não ordenada e sem elementos duplicados.
 
 #### Métodos disponíveis
 
